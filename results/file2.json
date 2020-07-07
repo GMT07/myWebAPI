@@ -1,0 +1,1 @@
+{"option_type": "call", "pricing_type": "mc", "spot": 100, "strike": 100, "risk_free": 0.01, "sigma": 0.1, "maturity": 1, "price": 4.4685977644550805, "status": "Returns a option price with the Monte Carlo method"}
