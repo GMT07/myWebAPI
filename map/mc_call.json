@@ -1,0 +1,9 @@
+{
+  "option_type": "call",
+  "pricing_type": "mc",
+  "spot": 100,
+  "strike": 100,
+  "risk_free": 0.01,
+  "sigma": 0.1,
+  "maturity": 1
+}
